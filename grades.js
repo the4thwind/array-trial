@@ -23,5 +23,5 @@ function printGrades() {
     let avg = sum / grades.length;
     //console.log(sum, grades.length)
     o.innerText = avg
-
+    
 }
